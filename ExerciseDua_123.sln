@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExerciseDua_123", "ExerciseDua_123\ExerciseDua_123.vcxproj", "{2FE6E2EC-E68D-4187-86D8-B642361A482A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosiasi", "ExerciseDua_123\ExerciseDua_123.vcxproj", "{2FE6E2EC-E68D-4187-86D8-B642361A482A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aggregasi", "Aggregasi\Aggregasi.vcxproj", "{A0844BE7-0B43-48D5-8287-87C92749B366}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{2FE6E2EC-E68D-4187-86D8-B642361A482A}.Release|x64.Build.0 = Release|x64
 		{2FE6E2EC-E68D-4187-86D8-B642361A482A}.Release|x86.ActiveCfg = Release|Win32
 		{2FE6E2EC-E68D-4187-86D8-B642361A482A}.Release|x86.Build.0 = Release|Win32
+		{A0844BE7-0B43-48D5-8287-87C92749B366}.Debug|x64.ActiveCfg = Debug|x64
+		{A0844BE7-0B43-48D5-8287-87C92749B366}.Debug|x64.Build.0 = Debug|x64
+		{A0844BE7-0B43-48D5-8287-87C92749B366}.Debug|x86.ActiveCfg = Debug|Win32
+		{A0844BE7-0B43-48D5-8287-87C92749B366}.Debug|x86.Build.0 = Debug|Win32
+		{A0844BE7-0B43-48D5-8287-87C92749B366}.Release|x64.ActiveCfg = Release|x64
+		{A0844BE7-0B43-48D5-8287-87C92749B366}.Release|x64.Build.0 = Release|x64
+		{A0844BE7-0B43-48D5-8287-87C92749B366}.Release|x86.ActiveCfg = Release|Win32
+		{A0844BE7-0B43-48D5-8287-87C92749B366}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

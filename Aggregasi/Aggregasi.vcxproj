@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2fe6e2ec-e68d-4187-86d8-b642361a482a}</ProjectGuid>
-    <RootNamespace>ExerciseDua123</RootNamespace>
+    <ProjectGuid>{a0844be7-0b43-48d5-8287-87c92749b366}</ProjectGuid>
+    <RootNamespace>Aggregasi</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Asosiasi</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ExerciseDua_123.cpp" />
+    <ClCompile Include="Aggregasi.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="buku.h" />
+    <ClInclude Include="pengarang.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
