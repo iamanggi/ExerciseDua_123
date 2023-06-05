@@ -1,5 +1,5 @@
 #ifndef PENGARANG_H
-#endif PENGARANG_H
+#define PENGARANG_H
 
 class pengarang {
 public:
